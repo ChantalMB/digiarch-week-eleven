@@ -1,0 +1,102 @@
+# Week 11: Notes
+
+- Game Graves
+  - Step 1: Collections
+    - Recording via screenshots --> DIY kobotoolbox later?
+    - Orlémurs Cemetery
+      - Coastal location
+        - Graves near back area "wild" and drowners linger
+      - Beside temple --> graves directly at the temple maintained suggesting field graveyard not in use
+      - A bit overgrown
+      - Many collapsing/crumbling graves --> nicer near enterance
+      - Walled --> wall crumbling at certain places
+      - Headstones/Graves
+        - Varitey of people buried here --> from traveller to marquis
+        - Elven grave of professor robbed --> grave indicated elven bc written in elder speak
+    - Mère-Lachaiselongue Cemetery
+      - SO MANY MONSTER FLOWERS
+        - ONE SPIT OUT A GHOUL
+      - Groupings of overlapping graves
+      - Built on rocky/hilly area
+      - Very overgrown
+      - Big crypt in center that goes underground
+      - Headstones/Graves
+        - More decorative headstones
+        - Some engraved with different language
+        - Statues as "headstones" --> all "female" figures lack upper bodies
+        - Lots of wealth associated with graves --> literally, tons of loot
+          - Also many looted graves
+        - Assorted nobles and associated individuals --> still seemingly abandoned
+  - Step 2: Look
+    - There isn't much data to record --> each grave consists of a name and a quote
+      - Further information is gathered through the images themselves --> kobotoolbox more focused on data
+    - Not sure if there's a image focused recording tool out there --> for now I am sorting screenshots as follows:
+    - Witcher3Graveyards
+      - Orlémurs Cemetery
+        - Elves, Mages, and Scholars
+        - Occupation listed
+        - Nobility
+        - General
+      - Mère-Lachaiselongue Cemetery
+        - Elves, Mages, and Scholars
+        - Occupation listed
+        - General
+    - Based on prior observation, I expect that the Elves, Mages, and Scholars categories might draw paralells to what's found on religious headstones
+      - Not particularly --> some inscriptions in different language/Elder speech rather than common speech
+      - Professor's grave looted at Orlémurs
+    - Cemetaries seem to be a "fun" bit of extra content rather than a focus --> most "inscriptions" jokes
+      - Both cemeteries that are readable seem to be abandoned --> others may be implied to be more serious/contain more treasured people considering large number of mourners (specifically at Orlémurs)
+    - A number of people died in battle and there are so many monsters everywhere --> burial for the lucky?
+
+- Sonification
+  - Want to try this because I didn't get to in HIST3814
+  - Concept of computer generated music odd in itself --> data generated music takes this a step further
+    - Music typically thought of as coming from the human imagination
+  - Will start with Binder tutorial
+    - Feel like the required date formatting could be error prone because of one likely needs to alter data to fit format
+    - Honestly, not entirely sure how to approach getting my data on par with necessary formatting
+      - This seems to be a reoccuring thing *sigh*
+  - Two Tone
+    - Much easier to use!
+    - What if I overlay the comparisons I was trying to do in week 10
+      - Anticipate this may be very repetitative and chaotic
+      - Yes okay it becomes a series of the same note over and over because the data is a count and there wasn't much over lap with styles vs years
+        - Reducing it to decades makes little difference...
+    - Arrange elements by date to sonify progression?
+      - Total height --> any times with a penchant form grandeur? --> search for decorative-ness of graves over time!
+        - Will try to overlay total height, length (for crypts), decorative motifs, quotes, and text panels
+        - I feel it may get more elaborate as time progresses because of advancement of machinery
+          - Descent it to chaos
+        - Flaw: Gaps in data make drawing conclusions harder from this sonification
+      - Hm doesn't look like I can modify data in Two Tone --> will quickly sort by date (earliest to latest) in Numbers
+        - Conclusion of sonification is all of the graves with unknown dates
+      - lmao this sounds like someone trying to make medieval Eastern European music but they aren't entirely sure what that is and they don't have the right instruments
+        - A bit boring but not terrible
+      - Height (harp) represented by 3x tempo, ascending --> "climb" indicates measurement
+      - Will keep quotes as same instrument (glockenspiel) --> looking at if there is quotes present rather than their nature
+        - Would be interesting to do a text analysis on quotes and representing that...
+      - DO NOT USE OSCILLATOR
+        - Oh actually I forgot to change the height variable back and it sounds kind of cool --> vintage nightmare
+      - Length/thickness double bass --> represent "low-ness" of tombs/crypts
+      - Central deco motifs a church organ --> only 2 occurences apparently so I wanted a very present noise to highlight them
+      - Marginal deco motifs violin & text panels are piano --> it sounds nice
+    - Overall
+      - Quotes remind consistently present --> "hammering" of glockenspiel
+      - Late 19th c. actually has the most consistent decoration, contradicting my initial prediction
+        - Text panels consistent but trickle out of favour after 1970s --> piano goes lower
+      - After note #122, data is of unknown time period --> song should technicallay end at 2:01
+    - Thoughts
+      - To interpret this is an orchestral listening activity --> need a good ear to identify and interpret the pieces
+      - This was by far the most "artistic" interpretation of data I've done --> sounds like the background music of a Professor Layton game
+        - Lots of choices made means that I think sonification is the most overtly "influenced" data by those who create it
+        - Could this overt influce be beneficial? --> less of a guesing game at finding interpretations vs "fact"
+      - Data easier to interpret by looking at the notes in Two Tone rather than listening
+
+- AR
+  - I am once again halted by my lack of photos --> what if I tried to model grave by hand then apply photos as textures?
+    - Taking advantage of free student [Shapr3D](https://www.shapr3d.com/) pro account
+    - Will import image and model from that
+  - Suddenly understand usefulness of Meshroom
+    - Can model with this but not apply textures --> will have to port over to Blender probably
+    - As pretty-much-beginner, these mechanics are weirddd
+  - Okay too much for 1 week, will come back to this
